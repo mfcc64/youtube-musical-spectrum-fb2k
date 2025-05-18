@@ -16,3 +16,10 @@ This is a wrapper of [YouTube Musical Spectrum](https://github.com/mfcc64/youtub
 ## Settings
 
 - Go to [YouTube Musical Spectrum Settings](https://github.com/mfcc64/youtube-musical-spectrum#settings).
+
+## Scripts
+
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) `v13.0.0`
+- [showcqt-js](https://github.com/mfcc64/showcqt-js) `v2.2.2`
+- [showcqt-element](https://github.com/mfcc64/showcqt-element) `v2.1.2`
+- [libsamplerate-js](https://github.com/aolsenjazz/libsamplerate-js) `v2.1.2`
