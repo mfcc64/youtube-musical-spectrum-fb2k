@@ -83,6 +83,7 @@
                     }
                 }
             };
+            cqt.style.zIndex = 3;
 
             ytms_context.onTimer = function(nb_samples, rate, nb_channels, format) {
                 const l = 0, r = Math.min(1, nb_channels - 1);
@@ -207,10 +208,6 @@
                 right: 0;
                 padding: 7px;
                 z-index: 7;
-            }
-
-            showcqt-element {
-                z-index: 3 !important;
             }
         </style>
     </head>
